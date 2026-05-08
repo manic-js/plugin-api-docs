@@ -36,8 +36,8 @@
     "access": "public"
   },
   "dependencies": {
-    "@scalar/hono-api-reference": "^0.10.8",
-    "hono": "^4.7.0"
+    "@scalar/hono-api-reference": "^0.10.14",
+    "hono": "^4.12.18"
   },
   "devDependencies": {
     "@shikijs/transformers": "^4.0.2",
@@ -45,6 +45,6 @@
     "fumadocs-docgen": "^3.0.10"
   },
   "peerDependencies": {
-    "manicjs": "^0.7.4"
+    "manicjs": "^0.7.7"
   }
 }
