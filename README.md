@@ -16,8 +16,8 @@ bun add @manicjs/api-docs
 ## Usage
 
 ```ts
-import { defineConfig } from 'manicjs/config';
-import { apiDocs } from '@manicjs/api-docs';
+import { defineConfig } from "manicjs/config";
+import { apiDocs } from "@manicjs/api-docs";
 
 export default defineConfig({
   plugins: [apiDocs()],
