@@ -20,8 +20,9 @@
     "url": "https://github.com/manic-js/plugin-api-docs"
   },
   "files": [
-    "src/**/*",
-    "README.md"
+    "src",
+    "README.md",
+    "LICENSE"
   ],
   "type": "module",
   "main": "./src/index.ts",
